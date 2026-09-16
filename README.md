@@ -1,4 +1,5 @@
-<div align="center"> <img src="assets/logo.jpg" alt="Logo FITAHIANTSOA" width="120" />
+ <img width="1053" height="1008" alt="logo" src="https://github.com/user-attachments/assets/c1167e18-7783-4645-aeb2-97bb6e36a6d0" />
+
 FITAHIANTSOA
 Entreprise & Fournisseur — Madagascar
 
