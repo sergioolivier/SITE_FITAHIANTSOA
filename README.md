@@ -7,7 +7,8 @@ Matériel agricole, artisanat, tourisme durable, électronique et bien plus : FI
 
 Voir le site en ligne
 
-</div> <br /> <img src="assets/banner.jpg" alt="Livraison de motoculteurs FITAHIANTSOA" width="100%" /> <br />
+ <img width="1500" height="1000" alt="banner" src="https://github.com/user-attachments/assets/8dfa46e8-551c-4f1d-9e1a-29b73ac1ea82" />
+
 À propos
 
 FITAHIANTSOA est une entreprise malgache spécialisée dans l'importation et la distribution de matériel agricole (motoculteurs diesel Changfa et Hong Yuan, tracteurs, motopompes, décortiqueuses de riz, pièces détachées), qui évolue vers une marketplace plus large réunissant plusieurs secteurs : agriculture, tourisme durable, artisanat malgache, électronique, mode et matériel médical.
